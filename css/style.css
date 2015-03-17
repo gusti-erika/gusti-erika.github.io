@@ -1,6 +1,7 @@
 .carousel-inner{
    border-bottom: 2px solid #bc9c55;
    border-top: 2px solid #bc9c55;
+   margin-top:50px;
 }
 
 .carousel-inner > .item > img,
